@@ -4,17 +4,11 @@ Este repositório documenta a metodologia de estudo, os critérios de autoria e 
 
 ## Sumário
 
-* [Visão Geral](#visão-geral)
-
 * [As 4 Regras de Desenvolvimento](#as-4-regras-de-desenvolvimento)
 
 * [Diário de Bordo (LOG.md) ](#diário-de-bordo-logmd)
 
 * [Matriz de Transparência de Autoria](#matriz-de-transparência-de-autoria-ai-declaration)
-
-## Visão Geral
-
-O objetivo principal deste manifesto é formalizar a relação entre o desenvolvimento orgânico de habilidades técnicas e a utilização de ferramentas gerativas. O software é totalmente pensado, desenhado e implementado por mim, utilizando a tecnologia como parceira de raciocínio e diagnóstico.
 
 ## As 4 Regras de Desenvolvimento
 

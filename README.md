@@ -6,7 +6,7 @@ Este repositório documenta a metodologia de estudo, os critérios de autoria e 
 
 * [As 4 Regras de Desenvolvimento](#as-4-regras-de-desenvolvimento)
 
-* [Diário de Bordo (LOG.md) ](#diário-de-bordo-logmd)
+* [Diário (LOG.md) ](#diário-logmd)
 
 * [Matriz de Transparência de Autoria](#matriz-de-transparência-de-autoria-ai-declaration)
 
@@ -36,7 +36,7 @@ Este repositório documenta a metodologia de estudo, os critérios de autoria e 
 
 * **A Prática:** Escrevo a lógica principal do projeto e utilizo a IA ao final como revisora para identificar vulnerabilidades de segurança, gargalos de desempenho ou cenários de teste não cobertos.
 
-## Diário de Bordo (`LOG.md`)
+## Diário (`LOG.md`)
 
 Todos os meus projetos principais possuem um arquivo `LOG.md` na raiz do repositório. Este arquivo funciona como um diário de desenvolvimento transparente, registrando:
 

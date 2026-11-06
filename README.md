@@ -62,4 +62,4 @@ Em cada repositório, incluo uma matriz categorizando o nível de assistência c
 | **`Pair` (Par de Programação)** | Refatoração de sintaxe orientada, interpretação de erros complexos e auxílio em trechos pontuais. | 
 | **`Auto` (Gerado/Auxiliado)** | Geração de dados simulados (mocks), documentação auxiliar ou autocomplete padrão de sintaxe. | 
 
-> *"O software e as decisões são meus; a IA é apenas a ferramenta de diagnóstico e debate."*
+> *"O software e as decisões são meus, a IA é apenas a ferramenta de diagnóstico e debate."*
